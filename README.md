@@ -3,7 +3,8 @@
 
 This project explores whether in-flight entertainment affects customer satisfaction using logistic regression. It demonstrates how a single service-related feature can effectively predict satisfaction based on historical airline customer feedback.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rafsun-Chowdhury/airline-satisfaction-logistic-regression/blob/main/Airline_Satisfaction_Logistic_Regression.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rafsun-Chowdhury/Airline-Customer-Satisfaction-Prediction-with-Logistic-Regression/blob/main/Airline_Satisfaction_Logistic_Regression.ipynb)
+
 
 ---
 
@@ -49,8 +50,8 @@ Click the badge at the top of this README to launch in Colab (no setup required)
 
 ```bash
 # Clone the repo
-git clone https://github.com/Rafsun-Chowdhury/airline-satisfaction-logistic-regression.git
-cd airline-satisfaction-logistic-regression
+git clone [https://github.com/Rafsun-Chowdhury/airline-satisfaction-logistic-regression.git
+cd airline-satisfaction-logistic-regression](https://github.com/Rafsun-Chowdhury/Airline-Customer-Satisfaction-Prediction-with-Logistic-Regression)
 
 # Install dependencies
 pip install -r requirements.txt
