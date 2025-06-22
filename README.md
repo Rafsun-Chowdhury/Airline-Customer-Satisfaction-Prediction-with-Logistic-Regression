@@ -30,6 +30,12 @@ This project explores whether in-flight entertainment affects customer satisfact
 - A **positive relationship** exists between in-flight entertainment and satisfaction.  
 - The model achieved strong performance using only a single feature.  
 - Businesses can leverage simple models for early, accurate customer insight.
+  **Performance Metrics** (Logistic Regression):
+- Accuracy: **80.2%**
+- Precision: **81.6%**
+- Recall: **82.2%**
+- F1 Score: **81.9%**
+
 
 ---
 
